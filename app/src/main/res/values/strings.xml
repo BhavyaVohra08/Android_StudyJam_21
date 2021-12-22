@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="blog_app">BlogApp</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="LogIn">login</string>
+    <string name="SignUp">signup</string>
+    <string name="home_for_avid_readers">HOME FOR AVID READERS</string>
+</resources>
